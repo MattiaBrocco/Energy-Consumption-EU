@@ -9,7 +9,7 @@ We've considered emissions under different point of views:
 * Use of chemical fertilizers
 Finally, we've tried to assess to which extent the EU area is putting effort in reneweable energies investments.
 
-![Italy](https://github.com/MattiaBrocco/Energy-Consumption-EU/tree/master/country_figs/Italy.jpg?raw=true)
+![Italy](https://user-images.githubusercontent.com/61026948/198282429-69c995c4-35b2-42ff-b9ec-66f527f125ee.jpg)
 
 
 
